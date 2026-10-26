@@ -1,3 +1,5 @@
+<img src="./assets/header.svg" width="100%" alt="Aron — estudante de ADS. Sistemas que ganham vida." />
+
 <div align="center">
 
 # Olá, eu sou o Aron
