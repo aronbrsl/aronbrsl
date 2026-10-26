@@ -1,4 +1,4 @@
-<img src="./assets/header.svg?rev=code2" width="100%" alt="Aron — código e desenvolvimento." />
+<img src="./assets/code-header.svg" width="100%" alt="Aron — código e desenvolvimento." />
 
 <div align="center">
 
