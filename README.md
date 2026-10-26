@@ -1,41 +1,29 @@
-<img src="./assets/code-header.svg" width="100%" alt="Aron — código e desenvolvimento." />
-
-<div align="center">
+<img src="./assets/code-background.svg" width="100%" alt="Código sobre fundo escuro" />
 
 # Olá, eu sou o Aron
 
-**Estudante de Análise e Desenvolvimento de Sistemas**  
-Construindo meu portfólio e buscando uma oportunidade de estágio em desenvolvimento.
+Estudante de **Análise e Desenvolvimento de Sistemas**, construindo meu portfólio e buscando uma oportunidade de estágio em desenvolvimento de software.
 
-`C#` · `.NET` · `Simulação` · `Integração de sistemas` · `Testes e documentação`
+Tenho interesse em transformar ideias em aplicações, entender como os sistemas funcionam e aprender com desafios práticos.
 
-[Conheça meu projeto](https://github.com/aronbrsl/living-society)
+### O que estou aprendendo
 
-</div>
+`C#` · `.NET` · `Lógica de programação` · `Git e GitHub` · `Testes e documentação`
 
----
+### Projetos
 
-### O que estou construindo
+Aqui reúno projetos pessoais e estudos práticos. Cada repositório apresenta seu objetivo, o que foi desenvolvido e os aprendizados ao longo do caminho.
+  
+| Projeto | Sobre |
+| --- | --- |
+| [Living Society](https://github.com/aronbrsl/living-society) | Simulação social para RimWorld, com foco em integração de sistemas, comportamentos e persistência. |
 
-**[Living Society](https://github.com/aronbrsl/living-society)** é um projeto de simulação social para RimWorld: personagens com memórias, relações, decisões e projetos próprios, conectados à construção e à economia do jogo.
-
-O desafio que mais me interessa é fazer sistemas diferentes trabalharem juntos: uma decisão precisa considerar conhecimento, recursos, relações e consequências — e continuar fazendo sentido depois de salvar e carregar a partida.
-
-### Meu foco de aprendizado
-
-- Entender a organização de um sistema com muitas regras e estados persistentes.
-- Transformar ideias em requisitos, cenários reproduzíveis e melhorias verificáveis.
-- Aprender com bugs de integração, comportamentos inesperados e feedback de uso.
-- Explicar decisões técnicas com clareza e documentar limitações.
+[Ver todos os repositórios](https://github.com/aronbrsl?tab=repositories)
 
 ### Como trabalho
 
-Uso IA para somar ao processo criativo e técnico: explorar ideias, apoiar o desenvolvimento e aprender durante as iterações.
+Gosto de explorar ideias, organizar requisitos e melhorar os projetos a partir de testes e feedback. Uso IA como apoio criativo e técnico durante o aprendizado.
 
 ### Oportunidades
 
-Busco estágio em desenvolvimento de software para aprender com uma equipe, fortalecer minha base e contribuir com projetos reais.
-
----
-
-<sub>Este perfil apresenta meu aprendizado e os projetos em que estou trabalhando. O código do Living Society não é publicado nos repositórios públicos de apresentação.</sub>
+Busco estágio para aprender com uma equipe, fortalecer minha base em desenvolvimento e contribuir com projetos reais.
