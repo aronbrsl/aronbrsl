@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Aron — estudante de ADS. Sistemas que ganham vida." />
+<img src="./assets/header.svg" width="100%" alt="Aron — código e desenvolvimento." />
 
 <div align="center">
 
@@ -28,9 +28,9 @@ O desafio que mais me interessa é fazer sistemas diferentes trabalharem juntos:
 - Aprender com bugs de integração, comportamentos inesperados e feedback de uso.
 - Explicar decisões técnicas com clareza e documentar limitações.
 
-### Como trabalho neste projeto
+### Como trabalho
 
-Defino requisitos, direciono o comportamento esperado e acompanho as iterações com apoio de ferramentas de IA na implementação, revisão e testes. Estou desenvolvendo minha compreensão técnica do sistema ao longo desse processo.
+Uso IA para somar ao processo criativo e técnico: explorar ideias, apoiar o desenvolvimento e aprender durante as iterações.
 
 ### Oportunidades
 
